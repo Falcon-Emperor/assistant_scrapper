@@ -1,3 +1,5 @@
+# These are the dependencies needed to run this application
+
 requests
 beautifulsoup4 
 pdfkit
