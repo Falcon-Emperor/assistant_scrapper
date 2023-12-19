@@ -1,0 +1,1 @@
+This project is a Streamlit-based web application that leverages OpenAI's Assistants API to provide a ChatGPT-like experience. Users can have real-time conversations with the AI, upload documents to be used as context, and even scrape and convert website content to PDFs to enrich the AI's knowledge base.
